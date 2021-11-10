@@ -1,0 +1,24 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choisungwook/expressjs.git"
+  },
+  "author": "chosiungwook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choisungwook/expressjs/issues"
+  },
+  "homepage": "https://github.com/choisungwook/expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
